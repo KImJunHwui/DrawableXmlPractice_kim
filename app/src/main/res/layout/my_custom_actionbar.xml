@@ -15,6 +15,11 @@
         android:textColor="@color/white"
         android:textStyle="bold"/>
 
+<Button
+    android:id="@+id/toastBtn"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="토스트 띄우기"/>
 
 
 </LinearLayout>
