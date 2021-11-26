@@ -36,6 +36,7 @@
             android:clickable="true"
             android:padding="10dp"
             android:gravity="center"
+            android:background="@drawable/blue_round_rect"
             android:text="싫어요"/>
 
 
